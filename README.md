@@ -1,4 +1,5 @@
 🍽️ TheMealDB Explorer
+
 A full-stack application built with Spring Boot (Backend) + React (Frontend)
 that uses TheMealDB API to search recipes, explore categories & view meal details.
 
