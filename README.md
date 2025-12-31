@@ -4,6 +4,7 @@ A full-stack application built with Spring Boot (Backend) + React (Frontend)
 that uses TheMealDB API to search recipes, explore categories & view meal details.
 
 🚀 Tech Stack
+
 Backend	- Java 17, Spring Boot, REST API
 
 Frontend - React.js, Axios, React Router
@@ -15,6 +16,7 @@ Build Tools -	Maven & NPM
 Hosting -	Runs locally
 
 API Source - https://www.themealdb.com/api.php
+
 
 
 
@@ -37,6 +39,7 @@ API Source - https://www.themealdb.com/api.php
 
 
 🔌 Backend (Spring Boot)
+
 ➤ Run Backend
 cd explorer-backend
 ./mvnw spring-boot:run
@@ -47,6 +50,7 @@ http://localhost:8080
 
 
 Available REST APIs
+
 Endpoint with	Description- 
 /api/meals/search?name=chicken	- Search meals by name
 
@@ -61,6 +65,7 @@ Endpoint with	Description-
 
 
 💻 Frontend (React)
+
 ➤ Run Frontend
 cd frontend
 npm install
