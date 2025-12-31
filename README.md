@@ -5,20 +5,36 @@ that uses TheMealDB API to search recipes, explore categories & view meal detail
 
 🚀 Tech Stack
 Backend	- Java 17, Spring Boot, REST API
+
 Frontend - React.js, Axios, React Router
+
 Caching -	Caffeine Cache
+
 Build Tools -	Maven & NPM
+
 Hosting -	Runs locally
+
 API Source - https://www.themealdb.com/api.php
 
-✨ Features
+
+
+✨ Features - 
+
 ✔ Search meals by name
+
 ✔ Browse meals by category
-✔ Random meal suggestion
+
+✔ Random meal suggestion 
+
 ✔ Detailed meal info (ingredients, instructions, YouTube video)
+
 ✔ Caching to improve performance
+
 ✔ Global exception handling
+
 ✔ Fully responsive UI
+
+
 
 🔌 Backend (Spring Boot)
 ➤ Run Backend
@@ -29,13 +45,20 @@ cd explorer-backend
 Backend will start at:
 http://localhost:8080
 
+
 Available REST APIs
 Endpoint with	Description- 
 /api/meals/search?name=chicken	- Search meals by name
+
 /api/meals/categories	- Get list of all categories
+
 /api/meals/category?name=Seafood	- Meals by category
+
 /api/meals/random	- Random recipe
+
 /api/meals/{id}	- Meal details by ID
+
+
 
 💻 Frontend (React)
 ➤ Run Frontend
@@ -69,7 +92,8 @@ http://localhost:3000
   ![Random Meal 4](https://github.com/user-attachments/assets/68651314-7c8b-4d66-9388-309281a8ada6)
   
 
-🏗️ Project Structure
+🏗️ Project Structure - 
+
 the-mealdb-explorer
  ├─ src  (Backend code: Spring Boot)
  ├─ frontend  (React UI)
