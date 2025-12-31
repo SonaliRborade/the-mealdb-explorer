@@ -40,12 +40,12 @@ API Source - https://www.themealdb.com/api.php
 
 🔌 Backend (Spring Boot)
 
-➤ Run Backend
+➤ Run Backend - 
 cd explorer-backend
 ./mvnw spring-boot:run
 
 
-Backend will start at:
+Backend will start at:-
 http://localhost:8080
 
 
@@ -64,11 +64,13 @@ Endpoint with	Description-
 
 
 
-💻 Frontend (React)
+💻 Frontend (React) - 
 
-➤ Run Frontend
+➤ Run Frontend - 
 cd frontend
+
 npm install
+
 npm start
 
 
