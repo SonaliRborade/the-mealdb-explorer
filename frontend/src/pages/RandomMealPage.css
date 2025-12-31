@@ -1,0 +1,20 @@
+.random-container {
+  text-align: center;
+  padding: 30px;
+}
+
+.random-btn {
+  padding: 12px 20px;
+  font-size: 18px;
+  background: #ff8c00;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.random-result img {
+  width: 320px;
+  border-radius: 12px;
+  margin-top: 20px;
+}

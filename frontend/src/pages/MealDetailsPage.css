@@ -1,0 +1,29 @@
+.meal-details-container {
+  max-width: 900px;
+  margin: 40px auto;
+  text-align: center;
+  padding: 20px;
+  background: #ffffff;
+  border-radius: 10px;
+}
+
+.meal-detail-img {
+  width: 60%;
+  border-radius: 10px;
+  margin: 20px 0;
+}
+
+.ingredients-list {
+  list-style: none;
+  padding: 0;
+  font-size: 16px;
+  text-align: left;
+  margin: 0 auto 20px;
+  max-width: 400px;
+}
+
+.instructions {
+  text-align: justify;
+  margin: 20px 10px;
+  line-height: 1.6;
+}
